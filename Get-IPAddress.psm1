@@ -1,4 +1,4 @@
-﻿function Get-IPAddress {
+Function Get-IPAddress {
     <#
     .SYNOPSIS
         Extract IP address from txt or input
